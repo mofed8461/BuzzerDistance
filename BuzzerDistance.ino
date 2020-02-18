@@ -1,4 +1,4 @@
-int minDst = 20;
+int minDst = 60;
 int triggerPin = 8;
 int echoPin = 9;
 
